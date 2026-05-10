@@ -18,8 +18,7 @@ However, during the project, I realized that Power Bi alone was not enough for d
 ## 📊 Project WorkThrough
 
 ###### Forcasting sheet for 90 Days
-![Forcasting_for_90_Days](Forecasting Sheet/Forcasting_for_90_Days.png.)
-
+![Forecasting for 90 Days](Forecasting%20Sheet/Forcasting_for_90_Days.png)
 
 
 ## 🚀 Summary of Approach
