@@ -9,27 +9,18 @@ However, during the project, I realized that Power Bi alone was not enough for d
 
 ## ❗ Problem Statement
 
-Businesses often struggle with:
-
-Understanding sales performance across regions and categories
-Identifying key factors affecting profit and revenue
-Forecasting future sales based on historical data
-Making data-driven decisions instead of assumptions
-
-This project aims to solve these problems by:
-
-Analyzing sales data using SQL and Python
-Discovering hidden patterns and trends
-Building a simple forecasting approach for future sales prediction
+- Build an interactive sales dashboard.
+- Build a simple forecasting sheet for future sales prediction.
+- Discover hidden patterns and trends in the data.
+- Extract actionable insights using SQL queries.
 
 
-## 📊 Key Insights
-Sales show strong seasonal trends across different months
-Certain product categories consistently generate higher revenue
-Consumer segment is the most profitable customer group
-Some regions significantly outperform others in both sales and profit
-Discounts have a direct impact on profit reduction in some cases
-Shipping mode affects customer experience and cost efficiency
+## 📊 Project WorkThrough
+
+###### Forcasting sheet for 90 Days
+![Forcasting_for_90_Days](Forecasting Sheet/Forcasting_for_90_Days.png.)
+
+
 
 ## 🚀 Summary of Approach
 Started with Excel for initial cleaning and exploration
