@@ -32,8 +32,4 @@ However, during the project, I realized that Power Bi alone was not enough for d
 
 
 
-## 🚀 Summary of Approach
-Started with Excel for initial cleaning and exploration
-Shifted to SQL for deeper EDA and better control over data analysis
-Planned to use Power BI for interactive dashboards and visualization
-Built insights that can support forecasting and business decisions
+## 🚀 Insights
