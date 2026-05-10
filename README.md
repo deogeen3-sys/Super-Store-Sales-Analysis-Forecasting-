@@ -20,8 +20,12 @@ However, during the project, I realized that Power Bi alone was not enough for d
 #### Forcasting sheet for 90 Days
 ![Forecasting_for_90_Days](Forecasting_Sheet/Forcasting_for_90_Days.png)
 
+
+
 #### Sales Dashboard
 ![](Superstore_Sales/Superstore_Sales_Dashboard.png)
+
+
 
 #### A pattern that pushed me to switch to SQL for deeper analysis.
 ![](Superstore_Sales/Total_Of_Sales_For_Every_Year_By_Month.png)
